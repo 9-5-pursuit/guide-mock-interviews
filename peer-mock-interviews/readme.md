@@ -8,15 +8,11 @@ The goal isn't to successfully complete the challenges. The goal is to improve b
 
 Your instructor will give each fellow access to either:
 
-**TO DO** Instructors, update this link to be your link inside your org:
-
-[This set](https://github.com/joinpursuit/peer-mi-group-a)
+[This set](https://github.com/9-5-pursuit/assessment-peer-mock-group-a)
 
 or
 
-**TO DO** Instructors, update this link to be your link inside your org:
-
-[That set](https://github.com/joinpursuit/peer-mi-group-b)
+[That set](https://github.com/9-5-pursuit/assessment-peer-mock-group-b)
 
 ## Instructions
 
