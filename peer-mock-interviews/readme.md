@@ -22,9 +22,7 @@ or
 
 ### Google Form
 
-**TO DO** Instructors, update this link to be your class's form:
-
-Be sure to share how it went with your instructional team. Please use [this form](https://docs.google.com/forms/d/1LL1RPJUIdYVakurAhDid9dOlot0TpC4SgBn7MIf35GY/edit).
+Be sure to share how it went with your instructional team. Please use [this form](https://forms.gle/RFMQT8HEMhGps9Y59).
 
 ### Discussion Question
 
